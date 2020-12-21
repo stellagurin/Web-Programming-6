@@ -1,2 +1,6 @@
-# Web-Programming-6
-Assignment 6 for Web Programming in HTML and CSS. View Stella Gurin's other projects on GitHub. 
+# Web Programming - Assignment 6
+
+This is the sixth assignment for Web Programming, written in HTML and CSS. Here is a screenshot of what it looks like:
+
+![Screenshot](webpage-screenshot-6.png)
+
